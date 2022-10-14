@@ -23,9 +23,11 @@ Send addresses once:<br>
 
 <img src="https://github.com/AlgoCryptoDapp/Bee-Sender/blob/main/screen.png" alt="erc20-tokens-multi-sender">
 
-
+Site1:
 https://AlgoCryptoDapp.github.io/Bee-Sender/
 
+Site2:
+https://dapp404.com/Bee-Sender
 
 
 # Need Earn cryptocurrency?
